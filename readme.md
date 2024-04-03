@@ -5,14 +5,13 @@
 - This is part of the path of Back-End Engineer from Codecademy, some of the content is provide by them, like the Front-End part. 
 
 ## Table of Contents
-> Installation
-> Usage
-> Features
-> Testing
-> Contributing
+- Installation
+- Usage
+- Features
+- Testing
 
 ## Installation
-> To run Boss Machine locally, follow these steps:
+- To run Boss Machine locally, follow these steps:
 
 1. Clone the repository to your local machine:
 
